@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1382</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1036</ColumnWidth1>
+        <ColumnWidth2>276</ColumnWidth2>
+        <ColumnWidth3>69</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>381</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+      <Watch>
+        <Format>
+          <struct_types/>
+          <watch_formats/>
+        </Format>
+      </Watch>
+      <QuickWatch>
+        <Column0>100</Column0>
+        <Column1>100</Column1>
+        <Column2>100</Column2>
+        <Column3>100</Column3>
+      </QuickWatch>
+      <TerminalIO>
+        
+        
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO>
+    </Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3569-6003</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-3046-6013</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14317-6007</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Project</ExpandedNode><ExpandedNode>Project/boot</ExpandedNode><ExpandedNode>Project/tasks</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24043-18106</Identity>
+            <TabName>Quick Watch</TabName>
+            <Factory>QuickWatch</Factory>
+            <Session>
+              <Expression/>
+            </Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-25065-6010</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-13107-27112</Identity><TabName>Terminal I/O</TabName><Factory>TerminalIO</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\stm32_lib\startup_stm32f10x_md_iar.s</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>2262</SelStart><SelEnd>2262</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\ucos_port\os_cpu_a_iar.asm</Filename><XPos>0</XPos><YPos>38</YPos><SelStart>2578</SelStart><SelEnd>2578</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\drive\delay.c</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>1582</SelStart><SelEnd>1582</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\drive\delay.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\global\asm_code.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>285</SelStart><SelEnd>285</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\stm32_lib\misc.c</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\tinySH\shell_nodes.c</Filename><XPos>0</XPos><YPos>254</YPos><SelStart>5947</SelStart><SelEnd>5947</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\drive\led.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\drive\spin_lock.h</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>1771</SelStart><SelEnd>1771</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\DOC\&#x4Fee;&#x6539;&#x8BB0;&#x5F55;.txt</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>661</SelStart><SelEnd>661</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\tinySH\shell_code.c</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>3250</SelStart><SelEnd>3250</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\stm32_lib\core_cm3.h</Filename><XPos>0</XPos><YPos>1037</YPos><SelStart>59971</SelStart><SelEnd>59971</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\tinySH\shell.c</Filename><XPos>0</XPos><YPos>107</YPos><SelStart>3666</SelStart><SelEnd>3666</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\boot\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>145</SelStart><SelEnd>145</SelEnd></Tab><ActiveTab>13</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\task\task_led.c</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>2436</SelStart><SelEnd>2436</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\stm32_lib\stm32f10x.h</Filename><XPos>0</XPos><YPos>692</YPos><SelStart>33200</SelStart><SelEnd>33200</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\drive\stream.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>397</SelStart><SelEnd>397</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\&#x6211;&#x7684;&#x6587;&#x6863;\&#x684C;&#x9762;\UART--SPI\CODE\drive\spin_lock.c</Filename><XPos>0</XPos><YPos>97</YPos><SelStart>3326</SelStart><SelEnd>3326</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00b0b040><key>iaridepm.enu1</key></Toolbar-00b0b040></Sizes></Row0><Row1><Sizes><Toolbar-066f9118><key>debuggergui.enu1</key></Toolbar-066f9118></Sizes></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>625</Bottom><Right>455</Right><x>-2</x><y>-2</y><xscreen>149</xscreen><yscreen>140</yscreen><sizeHorzCX>103472</sizeHorzCX><sizeHorzCY>168269</sizeHorzCY><sizeVertCX>317361</sizeVertCX><sizeVertCY>753606</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>138</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>140</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>168269</sizeHorzCY><sizeVertCX>103472</sizeVertCX><sizeVertCY>168269</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes><Wnd3><Rect><Top>0</Top><Left>0</Left><Bottom>1</Bottom><Right>0</Right><x>-2</x><y>-2</y><FloatX>576</FloatX><FloatY>136</FloatY><FloatWidth>769</FloatWidth><FloatHeight>421</FloatHeight><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>240385</sizeHorzCY><sizeVertCX>111111</sizeVertCX><sizeVertCY>753606</sizeVertCY></Rect></Wnd3></Sizes></Float></Positions>
+  </Desktop>
+</Project>
+
+
